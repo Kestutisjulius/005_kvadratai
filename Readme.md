@@ -6,19 +6,19 @@
 
 # UFO
 
-_35 group website project_
+BIT: _35 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/35-grupe-ufo/
+Site published at: https://kestutisjulius.github.io/005_kvadratai/
 
 Design: [ND kvadratai](https://cdn.discordapp.com/attachments/950296439051911178/951432465568899082/unknown.png)
 
 ## Project features
 
 -   Github pages
--   
+-   CSS: float, width
 
 ## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Kestutis: [Github](https://github.com/Kestutisjulius)
